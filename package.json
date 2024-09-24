@@ -9,10 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~51.0.28",
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-picker/picker": "^2.8.1",
+    "expo": "^51.0.34",
+    "expo-app-loading": "^2.1.1",
+    "expo-checkbox": "~3.0.0",
+    "expo-font": "~12.0.10",
+    "expo-splash-screen": "~0.27.5",
+    "expo-sqlite": "~14.0.6",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-checkbox": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
